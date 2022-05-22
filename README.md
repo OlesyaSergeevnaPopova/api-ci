@@ -1,0 +1,1 @@
+# CI REST-API TESTS [![Build status](https://ci.appveyor.com/api/projects/status/o3liorc5am5x1f28?svg=true)](https://ci.appveyor.com/project/OlesyaSergeevnaPopova/api-ci)
